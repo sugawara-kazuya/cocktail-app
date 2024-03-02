@@ -9,7 +9,7 @@ export default function Component() {
   return (
     <div className="flex flex-col min-h-screen">
       <header className="flex items-center h-[60px] px-4 border-b lg:px-6">
-        <Link className="flex items-center gap-2 font-semibold" href="#">
+        <Link className="flex items-center gap-2 font-semibold" href="/">
           <Package2Icon className="h-6 w-6" />
           <span className="">Sake Party</span>
         </Link>
@@ -68,7 +68,7 @@ export default function Component() {
                     Description
                   </h2>
                   <p className="text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                    秋田県の代表するお酒の1つ！手に入りやすく、比較的安価なのでこれがあれば買ってしまいます。
+                    秋田県の代表するお酒の1つ！手に入りやすく、比較的安価なのでおすすめです！
                   </p>
                 </div>
               </div>

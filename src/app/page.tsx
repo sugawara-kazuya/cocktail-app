@@ -10,7 +10,7 @@ export default function Component() {
   return (
     <div className="flex flex-col min-h-[100dvh]">
       <header className="flex items-center h-[60px] px-4 border-b lg:px-6">
-        <Link className="flex items-center gap-2 font-semibold" href="#">
+        <Link className="flex items-center gap-2 font-semibold" href="/">
           <Package2Icon className="h-6 w-6" />
           <span className="">Sake Party</span>
         </Link>
