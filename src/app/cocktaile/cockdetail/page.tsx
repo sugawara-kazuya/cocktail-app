@@ -15,7 +15,7 @@ export default function Component() {
         </Link>
       </header>
       <main className="flex-1 p-4 grid items-center justify-center gap-4 md:p-6">
-        <Link className="absolute top-20 left-6" href="/wine">
+        <Link className="absolute top-20 left-6" href="/cooktaile">
           <ArrowLeftIcon className="h-6 w-6" />
         </Link>
         <div className="w-full py-12 lg:py-24 xl:py-32">
