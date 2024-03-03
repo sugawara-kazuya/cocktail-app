@@ -10,6 +10,11 @@
       "StackName": "amplify-cocktail-dev-222636",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:358067010048:stack/amplify-cocktail-dev-222636/7f298480-d898-11ee-adfc-0ee3eafa3ebd",
       "AmplifyAppId": "d30aqoklm9zwcu"
+    },
+    "categories": {
+      "api": {
+        "cocktail": {}
+      }
     }
   }
 }
